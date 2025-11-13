@@ -1,0 +1,2 @@
+import React from 'react'
+export default function Contact(){ return (<div className="max-w-3xl mx-auto px-6 py-20"><h2 className="text-3xl font-semibold mb-4">Contact Us</h2><form className="space-y-4"><input className="w-full border rounded p-3" placeholder="Your name" /><input className="w-full border rounded p-3" placeholder="Email" /><textarea className="w-full border rounded p-3" placeholder="Message" rows="6"></textarea><button className="bg-primary text-white px-6 py-3 rounded">Send Message</button></form></div>)}
