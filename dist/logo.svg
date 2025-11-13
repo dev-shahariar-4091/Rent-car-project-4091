@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="56" viewBox="0 0 200 56" fill="none">
+  <rect width="200" height="56" fill="none"/>
+  <g transform="translate(6,6)">
+    <!-- simplified car icon -->
+    <path d="M8 30 L20 18 H120 L132 30 Q138 34 144 30 L152 24 L160 24" stroke="#0f1724" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="32" cy="36" r="4" fill="#0f1724"/>
+    <circle cx="120" cy="36" r="4" fill="#0f1724"/>
+    <text x="64" y="32" font-family="Inter, Arial, sans-serif" font-size="18" fill="#0f1724" font-weight="700">AutoCar</text>
+  </g>
+</svg>
